@@ -1,1 +1,1 @@
-# File must be named "Program.exe"
+File must be named "Program.exe"
